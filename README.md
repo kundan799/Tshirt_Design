@@ -47,3 +47,11 @@ Run App
 ```
 npm run dev
 ```
+## Creators
+[![linkedin](https://img.shields.io/badge/kundankumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-kumar-keshri-04621b238/)
+[![Github](https://img.shields.io/badge/kundan799-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kundan799)
+
+## Show your support
+<p> Give a ⭐️ if you like this project! </p>
+<br/>
+
